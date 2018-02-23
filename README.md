@@ -1,0 +1,1 @@
+# seafile-cli-armv5tel
